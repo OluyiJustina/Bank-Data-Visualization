@@ -8,7 +8,7 @@ This project aims to generate customer insights
 
 ### Methodology 
 
-#### Data Collect:
+#### Data Collection:
 The primary source od data use is Bank_Churn.csv and Bank_Churn_Messy.csv. The dataset is an open source is available for free download on kaggle.
 
 #### Dataset Description:
