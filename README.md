@@ -4,12 +4,16 @@
 ### Project title: Bank Dataset Analysis documentation 
 
 ### Project Objectives
-This project aims to generate customer insights  
+This project aims to generate customer insights, including the following:
+1. Customer behavior,
+2. identify potential risks,
+3. optimize marketing strategies,
+4. improve loan approval processes, 
 
 ### Methodology 
 
 #### Data Collection:
-The primary source od data use is Bank_Churn.csv and Bank_Churn_Messy.csv. The dataset is an open source is available for free download on kaggle.
+The primary source of data use is Bank_Churn.csv and Bank_Churn_Messy.csv. The dataset is an open source is available for free download on kaggle.
 
 #### Dataset Description:
 
